@@ -1,0 +1,21 @@
+# Data files
+*.xlsx
+*.xls
+*.csv
+!sample_data.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
