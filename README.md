@@ -21,7 +21,7 @@ The dataset (`Baku_House_Price_Prediction.xlsx`, ~39,300 listings) contains the 
 | `has_mortgage` | Whether the unit is mortgage-eligible |
 | `price` | Target variable — sale price |
 
-> The raw data file is not included in this repo (see `.gitignore`). Place `Baku_House_Price_Prediction.xlsx` in the project root to reproduce the notebook.
+> The raw data included in place called `Baku_House_Price_Prediction.xlsx` in the project root to reproduce the notebook.
 
 ## Workflow
 
